@@ -1,5 +1,5 @@
 ## Quantum Computing Certifications
-![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-Certifications-29a3a3)
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-Certifications-FF5F15)
 
 This repository contains certifications and recognitions related to my journey in Quantum Computing.
 
