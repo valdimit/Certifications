@@ -1,5 +1,7 @@
 # Quantum Computing Certifications
 ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-Passion-blueviolet)
+![Hackathon](https://img.shields.io/badge/Hackathon-BlueQubit_2025-29a3a3)
+![Certified](https://img.shields.io/badge/Certification-Completed-brightgreen)
 
 This repository contains certifications and recognitions related to my journey in Quantum Computing and Quantum Information Science.
 
