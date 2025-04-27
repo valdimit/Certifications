@@ -1,4 +1,5 @@
 # Quantum Computing Certifications
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-Passion-blueviolet)
 
 This repository contains certifications and recognitions related to my journey in Quantum Computing and Quantum Information Science.
 
