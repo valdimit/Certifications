@@ -1,6 +1,6 @@
 # Quantum Computing Certifications
 ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-Passion-2025-29a3a3)
-![Physics Major](https://img.shields.io/badge/Physics-QML_Explorer-orange)
+![Physics Major](https://img.shields.io/badge/Physics_Major-QML_Explorer-orange)
 
 This repository contains certifications and recognitions related to my journey in Quantum Computing and Quantum Information Sciece.
 
