@@ -5,12 +5,12 @@ This repository contains certifications and recognitions related to my journey i
 
 ## IBM Fundamentals of Quantum Algorithms
 - In recognition of the commitment to achieve professional excellence
-- Skills: Quantum Algorithms , Quantum Computing, Quantum Information, PWID-B0998400
+- Skills: Quantum Algorithms, Quantum Computing, Quantum Information
 - Issued by: IBM
 
 ## IBM Basics of Quantum Information
 - In recognition of the commitment to achieve professional excellence
-- Skills: Quantum Computation, Quantum Information, Quantum Theory, PWID-B0905900
+- Skills: Quantum Computation, Quantum Information, Quantum Theory
 - Issued by: IBM
 
 ## BlueQubit Quantum Hackathon 2025
